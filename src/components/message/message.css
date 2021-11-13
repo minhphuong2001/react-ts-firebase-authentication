@@ -1,0 +1,16 @@
+.message {
+    width: 500px;
+    margin-left: 512px;
+    margin-bottom: 20px;
+    border: 1px solid #cacaca;
+    padding: 10px;
+    font-weight: 550;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: rgb(21, 206, 21);
+}
